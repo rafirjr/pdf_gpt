@@ -1,1 +1,1 @@
-# pdfgpt
+# pdf_gpt
